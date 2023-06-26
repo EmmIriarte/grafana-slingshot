@@ -1,0 +1,312 @@
+{
+  "teams": [
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Alpha",
+      "Product": "SkyNova",
+      "Progress": 73,
+      "Level": 3,
+      "Status": "on track",
+      "Tech": "GPT-3",
+      "Users": 190,
+      "Location": {
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Beta",
+      "Product": "OceanBreeze",
+      "Progress": 8,
+      "Level": 2,
+      "Status": "close to deadline",
+      "Tech": "Cohere",
+      "Users": 52,
+      "Location": {
+        "lat": 37.7749,
+        "lon": -122.4194
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Gamma",
+      "Product": "TerraForge",
+      "Progress": 35,
+      "Level": 1,
+      "Status": "behind",
+      "Tech": "OpenAI",
+      "Users": 20,
+      "Location": {
+        "lat": 52.52,
+        "lon": 13.405
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Delta",
+      "Product": "AstroBeam",
+      "Progress": 49,
+      "Level": 2,
+      "Status": "behind",
+      "Tech": "EleutherAI",
+      "Users": 123,
+      "Location": {
+        "lat": 40.7128,
+        "lon": -74.006
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Epsilon",
+      "Product": "BioSculpt",
+      "Progress": 86,
+      "Level": 3,
+      "Status": "on track",
+      "Tech": "AI21 Labs",
+      "Users": 143,
+      "Location": {
+        "lat": 34.0522,
+        "lon": -118.2437
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Zeta",
+      "Product": "QuantumDive",
+      "Progress": 60,
+      "Level": 2,
+      "Status": "on track",
+      "Tech": "DeepMind",
+      "Users": 94,
+      "Location": {
+        "lat": 42.3601,
+        "lon": -71.0589
+      }
+    },
+    {
+      "Wave": 3,
+      "Fund": "560K USD",
+      "Startups": 37,
+      "Name": "Team Eta",
+      "Product": "LunarTide",
+      "Progress": 100,
+      "Level": 2,
+      "Status": "on track",
+      "Tech": "Microsoft AI",
+      "Users": 145,
+      "Location": {
+        "lat": 47.6062,
+        "lon": -122.3321
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "time": "00:00",
+      "messages": 0
+    },
+    {
+      "time": "01:00",
+      "messages": 0
+    },
+    {
+      "time": "02:00",
+      "messages": 0
+    },
+    {
+      "time": "03:00",
+      "messages": 1
+    },
+    {
+      "time": "04:00",
+      "messages": 0
+    },
+    {
+      "time": "05:00",
+      "messages": 0
+    },
+    {
+      "time": "06:00",
+      "messages": 0
+    },
+    {
+      "time": "07:00",
+      "messages": 10
+    },
+    {
+      "time": "08:00",
+      "messages": 40
+    },
+    {
+      "time": "09:00",
+      "messages": 70
+    },
+    {
+      "time": "10:00",
+      "messages": 130
+    },
+    {
+      "time": "11:00",
+      "messages": 150
+    },
+    {
+      "time": "12:00",
+      "messages": 120
+    },
+    {
+      "time": "13:00",
+      "messages": 90
+    },
+    {
+      "time": "14:00",
+      "messages": 60
+    },
+    {
+      "time": "15:00",
+      "messages": 40
+    },
+    {
+      "time": "16:00",
+      "messages": 30
+    },
+    {
+      "time": "17:00",
+      "messages": 20
+    },
+    {
+      "time": "18:00",
+      "messages": 10
+    },
+    {
+      "time": "19:00",
+      "messages": 10
+    },
+    {
+      "time": "20:00",
+      "messages": 20
+    },
+    {
+      "time": "21:00",
+      "messages": 30
+    },
+    {
+      "time": "22:00",
+      "messages": 20
+    },
+    {
+      "time": "23:00",
+      "messages": 0
+    }
+  ],
+  "commits": [
+    {
+      "time": "00:00",
+      "commits": 0
+    },
+    {
+      "time": "01:00",
+      "commits": 0
+    },
+    {
+      "time": "02:00",
+      "commits": 0
+    },
+    {
+      "time": "03:00",
+      "commits": 0
+    },
+    {
+      "time": "04:00",
+      "commits": 0
+    },
+    {
+      "time": "05:00",
+      "commits": 0
+    },
+    {
+      "time": "06:00",
+      "commits": 0
+    },
+    {
+      "time": "07:00",
+      "commits": 1
+    },
+    {
+      "time": "08:00",
+      "commits": 2
+    },
+    {
+      "time": "09:00",
+      "commits": 3
+    },
+    {
+      "time": "10:00",
+      "commits": 6
+    },
+    {
+      "time": "11:00",
+      "commits": 8
+    },
+    {
+      "time": "12:00",
+      "commits": 12
+    },
+    {
+      "time": "13:00",
+      "commits": 14
+    },
+    {
+      "time": "14:00",
+      "commits": 15
+    },
+    {
+      "time": "15:00",
+      "commits": 10
+    },
+    {
+      "time": "16:00",
+      "commits": 8
+    },
+    {
+      "time": "17:00",
+      "commits": 7
+    },
+    {
+      "time": "18:00",
+      "commits": 6
+    },
+    {
+      "time": "19:00",
+      "commits": 4
+    },
+    {
+      "time": "20:00",
+      "commits": 3
+    },
+    {
+      "time": "21:00",
+      "commits": 2
+    },
+    {
+      "time": "22:00",
+      "commits": 1
+    },
+    {
+      "time": "23:00",
+      "commits": 0
+    }
+  ]
+}
